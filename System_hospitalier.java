@@ -33,12 +33,12 @@ public class System_hospitalier {
         System.out.println(comparaisonDonnees);
     }
 
-    private String analyserRequete(Requête requête) {
+    private String analyserRequete(Requête requête) { //cette methode permet d'analyser les donnees d'un patient et ses symptomes
         
         return "requête analysée";
     }
 
-    private String comparerDonnes() {
+    private String comparerDonnes() { //cette methode compare ses donnees afin de trouver les problemes/maladies que la personne rencontre et qui causent les symptomes
         
         return "Cluster trouvé";
     }
