@@ -1,0 +1,1 @@
+les branches permettent de separer des documents au sein d'un même dossier, et les add et commit permettent de les déplacer
